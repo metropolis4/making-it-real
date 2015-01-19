@@ -2,7 +2,6 @@ body {
 	background: #7f8c8d;
 	font-family: sans-serif;
 	font-size:0.8em;
-	position: relative;
 }
 .main-container {
 	max-width: 500px;
@@ -140,8 +139,7 @@ aside {
 	white-space: pre;
 	padding-left: 30px;
 	background: #bdc3c7;
-	font-family: monospace;
-	font-size: 1.4em;
+	font-size: 1.2em;
 }
 .success-steps li {
 	padding-bottom: 10px;
